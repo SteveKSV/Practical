@@ -1,0 +1,13 @@
+D:\Desktop\Практика_№1\Problem-7\bin\Debug\netcoreapp3.1\Problems_4-7.exe
+D:\Desktop\Практика_№1\Problem-7\bin\Debug\netcoreapp3.1\Problems_4-7.deps.json
+D:\Desktop\Практика_№1\Problem-7\bin\Debug\netcoreapp3.1\Problems_4-7.runtimeconfig.json
+D:\Desktop\Практика_№1\Problem-7\bin\Debug\netcoreapp3.1\Problems_4-7.runtimeconfig.dev.json
+D:\Desktop\Практика_№1\Problem-7\bin\Debug\netcoreapp3.1\Problems_4-7.dll
+D:\Desktop\Практика_№1\Problem-7\bin\Debug\netcoreapp3.1\Problems_4-7.pdb
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.csproj.AssemblyReference.cache
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.AssemblyInfoInputs.cache
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.AssemblyInfo.cs
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.csproj.CoreCompileInputs.cache
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.dll
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.pdb
+D:\Desktop\Практика_№1\Problem-7\obj\Debug\netcoreapp3.1\Problems_4-7.genruntimeconfig.cache

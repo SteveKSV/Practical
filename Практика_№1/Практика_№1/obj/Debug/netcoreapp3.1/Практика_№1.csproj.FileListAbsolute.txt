@@ -1,0 +1,13 @@
+D:\Desktop\Практика_№1\Практика_№1\bin\Debug\netcoreapp3.1\Практика_№1.exe
+D:\Desktop\Практика_№1\Практика_№1\bin\Debug\netcoreapp3.1\Практика_№1.deps.json
+D:\Desktop\Практика_№1\Практика_№1\bin\Debug\netcoreapp3.1\Практика_№1.runtimeconfig.json
+D:\Desktop\Практика_№1\Практика_№1\bin\Debug\netcoreapp3.1\Практика_№1.runtimeconfig.dev.json
+D:\Desktop\Практика_№1\Практика_№1\bin\Debug\netcoreapp3.1\Практика_№1.dll
+D:\Desktop\Практика_№1\Практика_№1\bin\Debug\netcoreapp3.1\Практика_№1.pdb
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.csproj.AssemblyReference.cache
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.AssemblyInfoInputs.cache
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.AssemblyInfo.cs
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.csproj.CoreCompileInputs.cache
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.dll
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.pdb
+D:\Desktop\Практика_№1\Практика_№1\obj\Debug\netcoreapp3.1\Практика_№1.genruntimeconfig.cache

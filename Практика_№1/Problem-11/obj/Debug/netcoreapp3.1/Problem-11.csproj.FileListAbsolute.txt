@@ -1,0 +1,12 @@
+D:\Desktop\Практика_№1\Problem-11\bin\Debug\netcoreapp3.1\Problem-11.exe
+D:\Desktop\Практика_№1\Problem-11\bin\Debug\netcoreapp3.1\Problem-11.deps.json
+D:\Desktop\Практика_№1\Problem-11\bin\Debug\netcoreapp3.1\Problem-11.runtimeconfig.json
+D:\Desktop\Практика_№1\Problem-11\bin\Debug\netcoreapp3.1\Problem-11.runtimeconfig.dev.json
+D:\Desktop\Практика_№1\Problem-11\bin\Debug\netcoreapp3.1\Problem-11.dll
+D:\Desktop\Практика_№1\Problem-11\bin\Debug\netcoreapp3.1\Problem-11.pdb
+D:\Desktop\Практика_№1\Problem-11\obj\Debug\netcoreapp3.1\Problem-11.AssemblyInfoInputs.cache
+D:\Desktop\Практика_№1\Problem-11\obj\Debug\netcoreapp3.1\Problem-11.AssemblyInfo.cs
+D:\Desktop\Практика_№1\Problem-11\obj\Debug\netcoreapp3.1\Problem-11.csproj.CoreCompileInputs.cache
+D:\Desktop\Практика_№1\Problem-11\obj\Debug\netcoreapp3.1\Problem-11.dll
+D:\Desktop\Практика_№1\Problem-11\obj\Debug\netcoreapp3.1\Problem-11.pdb
+D:\Desktop\Практика_№1\Problem-11\obj\Debug\netcoreapp3.1\Problem-11.genruntimeconfig.cache
