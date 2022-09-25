@@ -1,0 +1,25 @@
+D:\Desktop\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.exe
+D:\Desktop\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.deps.json
+D:\Desktop\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.runtimeconfig.json
+D:\Desktop\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.runtimeconfig.dev.json
+D:\Desktop\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.dll
+D:\Desktop\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.pdb
+D:\Desktop\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.AssemblyInfoInputs.cache
+D:\Desktop\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.AssemblyInfo.cs
+D:\Desktop\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.csproj.CoreCompileInputs.cache
+D:\Desktop\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.dll
+D:\Desktop\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.pdb
+D:\Desktop\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.genruntimeconfig.cache
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.csproj.AssemblyReference.cache
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.AssemblyInfoInputs.cache
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.AssemblyInfo.cs
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.csproj.CoreCompileInputs.cache
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.dll
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.pdb
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.exe
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.deps.json
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.runtimeconfig.json
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.runtimeconfig.dev.json
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.dll
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\bin\Debug\netcoreapp3.1\Problem-1.pdb
+D:\Desktop\C# OOП\Practical-2\Practical-2\Practical-2\obj\Debug\netcoreapp3.1\Problem-1.genruntimeconfig.cache

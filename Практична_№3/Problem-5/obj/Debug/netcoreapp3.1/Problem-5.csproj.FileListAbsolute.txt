@@ -1,0 +1,13 @@
+D:\Desktop\C# OOП\Practical-3\Problem-5\bin\Debug\netcoreapp3.1\Problem-5.exe
+D:\Desktop\C# OOП\Practical-3\Problem-5\bin\Debug\netcoreapp3.1\Problem-5.deps.json
+D:\Desktop\C# OOП\Practical-3\Problem-5\bin\Debug\netcoreapp3.1\Problem-5.runtimeconfig.json
+D:\Desktop\C# OOП\Practical-3\Problem-5\bin\Debug\netcoreapp3.1\Problem-5.runtimeconfig.dev.json
+D:\Desktop\C# OOП\Practical-3\Problem-5\bin\Debug\netcoreapp3.1\Problem-5.dll
+D:\Desktop\C# OOП\Practical-3\Problem-5\bin\Debug\netcoreapp3.1\Problem-5.pdb
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.csproj.AssemblyReference.cache
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.AssemblyInfoInputs.cache
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.AssemblyInfo.cs
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.csproj.CoreCompileInputs.cache
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.dll
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.pdb
+D:\Desktop\C# OOП\Practical-3\Problem-5\obj\Debug\netcoreapp3.1\Problem-5.genruntimeconfig.cache
