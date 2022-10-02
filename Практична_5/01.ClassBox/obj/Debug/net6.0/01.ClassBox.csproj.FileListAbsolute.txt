@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\bin\Debug\net6.0\01.ClassBox.exe
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\bin\Debug\net6.0\01.ClassBox.deps.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\bin\Debug\net6.0\01.ClassBox.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\bin\Debug\net6.0\01.ClassBox.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\bin\Debug\net6.0\01.ClassBox.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\refint\01.ClassBox.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\01.ClassBox.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\01.ClassBox\obj\Debug\net6.0\ref\01.ClassBox.dll

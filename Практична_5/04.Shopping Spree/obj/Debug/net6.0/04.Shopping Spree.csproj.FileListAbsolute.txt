@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\bin\Debug\net6.0\04.Shopping Spree.exe
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\bin\Debug\net6.0\04.Shopping Spree.deps.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\bin\Debug\net6.0\04.Shopping Spree.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\bin\Debug\net6.0\04.Shopping Spree.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\bin\Debug\net6.0\04.Shopping Spree.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\refint\04.Shopping Spree.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\04.Shopping Spree.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\04.Shopping Spree\obj\Debug\net6.0\ref\04.Shopping Spree.dll

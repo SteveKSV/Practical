@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\bin\Debug\net6.0\03.Animal Farm.exe
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\bin\Debug\net6.0\03.Animal Farm.deps.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\bin\Debug\net6.0\03.Animal Farm.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\bin\Debug\net6.0\03.Animal Farm.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\bin\Debug\net6.0\03.Animal Farm.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\refint\03.Animal Farm.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\03.Animal Farm.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\03.Animal Farm\obj\Debug\net6.0\ref\03.Animal Farm.dll

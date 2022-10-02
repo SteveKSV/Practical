@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\bin\Debug\net6.0\02.Class Box Data Validation.exe
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\bin\Debug\net6.0\02.Class Box Data Validation.deps.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\bin\Debug\net6.0\02.Class Box Data Validation.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\bin\Debug\net6.0\02.Class Box Data Validation.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\bin\Debug\net6.0\02.Class Box Data Validation.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\refint\02.Class Box Data Validation.dll
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.pdb
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\02.Class Box Data Validation.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_№5\Practical-5\02.Class Box Data Validation\obj\Debug\net6.0\ref\02.Class Box Data Validation.dll
