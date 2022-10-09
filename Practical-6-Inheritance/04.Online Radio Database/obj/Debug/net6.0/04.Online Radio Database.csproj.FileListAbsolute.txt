@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\bin\Debug\net6.0\04.Online Radio Database.exe
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\bin\Debug\net6.0\04.Online Radio Database.deps.json
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\bin\Debug\net6.0\04.Online Radio Database.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\bin\Debug\net6.0\04.Online Radio Database.dll
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\bin\Debug\net6.0\04.Online Radio Database.pdb
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.dll
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\refint\04.Online Radio Database.dll
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.pdb
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\04.Online Radio Database.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\04.Online Radio Database\obj\Debug\net6.0\ref\04.Online Radio Database.dll

@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\bin\Debug\net6.0\03. Mankind.exe
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\bin\Debug\net6.0\03. Mankind.deps.json
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\bin\Debug\net6.0\03. Mankind.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\bin\Debug\net6.0\03. Mankind.dll
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\bin\Debug\net6.0\03. Mankind.pdb
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.dll
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\refint\03. Mankind.dll
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.pdb
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\03. Mankind.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_№6\Practical-6-Inheritance\03. Mankind\obj\Debug\net6.0\ref\03. Mankind.dll
