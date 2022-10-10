@@ -39,8 +39,13 @@ for (int i = 0; i < songsCount; i++)
     }
 }
 
-var totalDuration = songs.Sum(x => x.Minutes * 60 + x.Seconds);
 
+int sum = 0;
+foreach (var currentElem in songs)
+{
+    sum += currentElem.Minutes * 60 + currentElem.Seconds;
+}
+int totalDuration = sum;
 var totalHours = totalDuration / 60 / 60;
 var totalMinutes = (totalDuration / 60) - (totalHours * 60);
 long totalSeconds = totalDuration % 60;
