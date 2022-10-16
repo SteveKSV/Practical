@@ -35,7 +35,7 @@ namespace _05.Mordor_s_Cruel_Plan
         {
             var builder = new StringBuilder();
             builder.Append(this.MoodCount)
-                .Append(Environment.NewLine)
+                .Append("\n")
                 .Append(this.MoodType());
 
             return builder.ToString();
