@@ -21,9 +21,17 @@ namespace _03._Mankind
             get { return this.facultyNumber; }
             private set
             {
-                if (value.Length < 5 || value.Length > 10 || !value.ToCharArray().All(x => char.IsDigit(x) || char.IsLetter(x)))
+                if (value.Length < 5 || value.Length > 10)
                 {
-                    throw new ArgumentException("Invalid faculty number!");
+                    value.ToCharArray();
+                    for(int i = 0; i < value.Length; i++)
+                    {
+                        if (char.IsLetter(value[i]))
+                        {
+                            throw new ArgumentException("Invalid faculty number!");
+                        }
+                    }
+                    
                 }
 
                 this.facultyNumber = value;
