@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\bin\Debug\net6.0\08.Military Elite.exe
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\bin\Debug\net6.0\08.Military Elite.deps.json
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\bin\Debug\net6.0\08.Military Elite.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\bin\Debug\net6.0\08.Military Elite.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\bin\Debug\net6.0\08.Military Elite.pdb
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\refint\08.Military Elite.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.pdb
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\08.Military Elite.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\08.Military Elite\obj\Debug\net6.0\ref\08.Military Elite.dll

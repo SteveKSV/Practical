@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\bin\Debug\net6.0\04.Telephony.exe
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\bin\Debug\net6.0\04.Telephony.deps.json
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\bin\Debug\net6.0\04.Telephony.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\bin\Debug\net6.0\04.Telephony.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\bin\Debug\net6.0\04.Telephony.pdb
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\refint\04.Telephony.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.pdb
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\04.Telephony.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\04.Telephony\obj\Debug\net6.0\ref\04.Telephony.dll

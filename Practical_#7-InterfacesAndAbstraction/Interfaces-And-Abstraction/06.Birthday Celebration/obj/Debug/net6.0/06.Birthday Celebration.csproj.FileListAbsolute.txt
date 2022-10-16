@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\bin\Debug\net6.0\06.Birthday Celebration.exe
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\bin\Debug\net6.0\06.Birthday Celebration.deps.json
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\bin\Debug\net6.0\06.Birthday Celebration.runtimeconfig.json
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\bin\Debug\net6.0\06.Birthday Celebration.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\bin\Debug\net6.0\06.Birthday Celebration.pdb
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\refint\06.Birthday Celebration.dll
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.pdb
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\06.Birthday Celebration.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Практична_7\Practical_#7-InterfacesAndAbstraction\Interfaces-And-Abstraction\06.Birthday Celebration\obj\Debug\net6.0\ref\06.Birthday Celebration.dll
