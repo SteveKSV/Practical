@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\bin\Debug\net6.0\05.Generic Count Method Strings.exe
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\bin\Debug\net6.0\05.Generic Count Method Strings.deps.json
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\bin\Debug\net6.0\05.Generic Count Method Strings.runtimeconfig.json
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\bin\Debug\net6.0\05.Generic Count Method Strings.dll
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\bin\Debug\net6.0\05.Generic Count Method Strings.pdb
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.dll
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\refint\05.Generic Count Method Strings.dll
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.pdb
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\05.Generic Count Method Strings.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\05.Generic Count Method Strings\obj\Debug\net6.0\ref\05.Generic Count Method Strings.dll

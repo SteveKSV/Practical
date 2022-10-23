@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\bin\Debug\net6.0\06.Generic Count Method Doubles.exe
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\bin\Debug\net6.0\06.Generic Count Method Doubles.deps.json
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\bin\Debug\net6.0\06.Generic Count Method Doubles.runtimeconfig.json
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\bin\Debug\net6.0\06.Generic Count Method Doubles.dll
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\bin\Debug\net6.0\06.Generic Count Method Doubles.pdb
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.dll
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\refint\06.Generic Count Method Doubles.dll
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.pdb
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\06.Generic Count Method Doubles.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Generics\08.Generics\06.Generic Count Method Doubles\obj\Debug\net6.0\ref\06.Generic Count Method Doubles.dll
