@@ -20,7 +20,6 @@ namespace _08.Military_Elite.Classes
         public override string ToString()
         {
             return $"{base.ToString()}Missions:{"\n "}{string.Join("\n ", this.Missions)}";
-
         }
     }
 }

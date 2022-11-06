@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeck\\Desktop\\Практична_7\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj": {}
+    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeck\\Desktop\\Практична_7\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj": {
+    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Практична_7\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj",
+        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj",
         "projectName": "04.Telephony",
-        "projectPath": "C:\\Users\\Jeck\\Desktop\\Практична_7\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj",
+        "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\04.Telephony.csproj",
         "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeck\\Desktop\\Практична_7\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\obj\\",
+        "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#7-InterfacesAndAbstraction\\Interfaces-And-Abstraction\\04.Telephony\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

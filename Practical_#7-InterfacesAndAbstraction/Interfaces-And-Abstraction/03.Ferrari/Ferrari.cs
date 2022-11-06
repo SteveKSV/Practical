@@ -24,20 +24,20 @@ namespace _03.Ferrari
 
         public string Model
         {
-            get => model;
-            private set => this.model = "488-Spider";
+            get { return this.model; }
+            private set { this.model = "488-Spider"; }
         }
 
         public string Brakes
         {
-            get => brakes;
-            private set => this.brakes = "Brakes!";
+            get { return this.brakes; }
+            private set { this.brakes = "Brakes!"; }
         }
 
         public string GasPedal
         {
-            get => this.gasPedal;
-            private set => this.gasPedal = "Zadu6avam sA!";
+            get { return this.gasPedal; }
+            private set { this.gasPedal = "Zadu6avam sA!"; }
         }
 
         public override string ToString()
