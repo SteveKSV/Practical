@@ -22,9 +22,6 @@ namespace _06.Strategy_Pattern.Comparators
             }
             else if (p1.Name.Length == p2.Name.Length)
             {
-
-                int counter = 0;
-
                 for (int i = 0; i < p1.Name.Length; i++)
                 {
                     char c1 = char.ToLower(p1.Name[i]);

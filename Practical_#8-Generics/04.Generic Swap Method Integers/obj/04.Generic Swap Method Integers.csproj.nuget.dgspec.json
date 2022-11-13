@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj": {}
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj": {
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj",
+        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj",
         "projectName": "04.Generic Swap Method Integers",
-        "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj",
+        "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\04.Generic Swap Method Integers.csproj",
         "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\obj\\",
+        "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\04.Generic Swap Method Integers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

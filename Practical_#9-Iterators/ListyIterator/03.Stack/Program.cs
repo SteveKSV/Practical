@@ -14,7 +14,7 @@ class Program
             try
             {
                 string[] inputArgs = command.Split();
-
+             
                 switch (inputArgs[0])
                 {
                     case "Push": 

@@ -1,6 +1,6 @@
 ﻿using _07_09.Custom_List;
 
-ICustomList<string> myList = new CustomList<string>();
+CustomList<string> myList = new CustomList<string>();
 
 var inputString = Console.ReadLine();
 while (!inputString.Equals("END"))
@@ -12,6 +12,7 @@ while (!inputString.Equals("END"))
 static void Execute(string inputString, ICustomList<string> myList)
 {
     var commandArgs = inputString.Split();
+    
     switch (commandArgs[0])
     {
         case "Add":

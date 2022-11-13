@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj": {}
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj": {
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj",
+        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj",
         "projectName": "01.ListyIterator",
-        "projectPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj",
+        "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\01.ListyIterator.csproj",
         "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\obj\\",
+        "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\ListyIterator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

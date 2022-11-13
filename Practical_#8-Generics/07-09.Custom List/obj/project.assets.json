@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\07-09.Custom List\\07-09.Custom List.csproj",
+      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\07-09.Custom List\\07-09.Custom List.csproj",
       "projectName": "07-09.Custom List",
-      "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\07-09.Custom List\\07-09.Custom List.csproj",
+      "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\07-09.Custom List\\07-09.Custom List.csproj",
       "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\07-09.Custom List\\obj\\",
+      "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\07-09.Custom List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

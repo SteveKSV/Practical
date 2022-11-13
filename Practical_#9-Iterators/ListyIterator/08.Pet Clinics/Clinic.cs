@@ -59,7 +59,7 @@ namespace _08.Pet_Clinics
                 return true;
             }
 
-            // Індекс для індексів кімнат по бокам від центральної (наприклад, 5 кімнат - тоді для 2 та 4 кімнат)
+            // Індекс для індексів кімнат по бокам від центральної (наприклад, 5 кімнат - тоді для 2 та 4 кімнати)
             int awayFromTheMiddleIndex = 1;
 
             while (true)
@@ -67,14 +67,14 @@ namespace _08.Pet_Clinics
                 // Індекс лівої кімнати від центральної
                 int roomLeftFromTheMiddle = middleRoomIndex - awayFromTheMiddleIndex;
 
-                // Якщо порожня - заодимо тваринку (додаткова умова для того, щоб не вийти за межі кімнат
+                // Якщо порожня - заводимо тваринку (додаткова умова для того, щоб не вийти за межі кімнат
                 // (наприклад, якщо у нас 1 кімната всього)
                 if (roomLeftFromTheMiddle >= 0 && this.Rooms[roomLeftFromTheMiddle] == null)
                 {
                     this.Rooms[roomLeftFromTheMiddle] = pet;
                     return true;
                 }
-                
+
                 // Індекс правої кімнати від центральної
                 int roomRightFromTheMiddle = middleRoomIndex + awayFromTheMiddleIndex;
 
@@ -95,7 +95,7 @@ namespace _08.Pet_Clinics
                 }
             }
         }
-    
+
         public bool Release()
         {
             // Індекс центральної кімнати
@@ -112,8 +112,8 @@ namespace _08.Pet_Clinics
                     return true;
                 }
                 // Після кожної провіренної кімнати змінна збільшується. 
-                checkedRooms++;  
-                
+                checkedRooms++;
+
                 // Якщо змінна дорівнює кількості кімнат - всі кімнати перевірені та відбувається вихід з циклу.
                 if (checkedRooms == this.Rooms.Length)
                 {
@@ -124,29 +124,33 @@ namespace _08.Pet_Clinics
                 currentIndex++;
             }
         }
-    
+
         public bool HasEmptyRooms(string clinicName)
         {
-            foreach(var room in this.Rooms)
+            if (this.Name == clinicName)
             {
-                if(room == null)
+                foreach (var room in this.Rooms)
                 {
-                    return true;
+                    if (room == null)
+                    {
+                        return true;
+                    }
                 }
+                return false;
             }
-            return false;
+            else return false;
         }
         public void Print()
         {
             Console.WriteLine("--------------Print of the rooms--------------");
-            foreach(var room in this.Rooms)
+            foreach (var room in this.Rooms)
             {
-                if(room == null)
+                if (room == null)
                 {
                     Console.Write("Room Empty");
                 }
                 Console.WriteLine($"{room}");
-                
+
             }
         }
 

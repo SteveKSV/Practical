@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj": {}
+    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj": {
+    "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj",
+        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj",
         "projectName": "01. Person",
-        "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj",
+        "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\Practical-6-Inheritance\\01. Person.csproj",
         "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\Practical-6-Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\Practical-6-Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

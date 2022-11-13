@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj": {}
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj": {
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj",
+        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj",
         "projectName": "07.Equality Logic",
-        "projectPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj",
+        "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\07.Equality Logic.csproj",
         "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\obj\\",
+        "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\07.Equality Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

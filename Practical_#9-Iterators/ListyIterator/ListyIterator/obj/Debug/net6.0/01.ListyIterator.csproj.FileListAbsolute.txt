@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\bin\Debug\net6.0\01.ListyIterator.exe
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\bin\Debug\net6.0\01.ListyIterator.deps.json
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\bin\Debug\net6.0\01.ListyIterator.runtimeconfig.json
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\bin\Debug\net6.0\01.ListyIterator.dll
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\bin\Debug\net6.0\01.ListyIterator.pdb
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.dll
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\refint\01.ListyIterator.dll
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.pdb
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\01.ListyIterator.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Навчання\GitCLone\Practical\Practical_#9-Iterators\ListyIterator\ListyIterator\obj\Debug\net6.0\ref\01.ListyIterator.dll

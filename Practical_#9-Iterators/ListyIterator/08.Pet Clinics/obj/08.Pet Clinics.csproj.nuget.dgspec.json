@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj": {}
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj": {
+    "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj",
+        "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj",
         "projectName": "08.Pet Clinics",
-        "projectPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj",
+        "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\08.Pet Clinics.csproj",
         "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\obj\\",
+        "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\08.Pet Clinics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

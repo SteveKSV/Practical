@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\05.Mordor’s Cruel Plan\\05.Mordor’s Cruel Plan.csproj",
+      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\05.Mordor’s Cruel Plan\\05.Mordor’s Cruel Plan.csproj",
       "projectName": "05.Mordor’s Cruel Plan",
-      "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\05.Mordor’s Cruel Plan\\05.Mordor’s Cruel Plan.csproj",
+      "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\05.Mordor’s Cruel Plan\\05.Mordor’s Cruel Plan.csproj",
       "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\05.Mordor’s Cruel Plan\\obj\\",
+      "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\05.Mordor’s Cruel Plan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

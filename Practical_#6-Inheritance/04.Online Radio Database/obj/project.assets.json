@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\04.Online Radio Database\\04.Online Radio Database.csproj",
+      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\04.Online Radio Database\\04.Online Radio Database.csproj",
       "projectName": "04.Online Radio Database",
-      "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\04.Online Radio Database\\04.Online Radio Database.csproj",
+      "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\04.Online Radio Database\\04.Online Radio Database.csproj",
       "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical-6-Inheritance\\04.Online Radio Database\\obj\\",
+      "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#6-Inheritance\\04.Online Radio Database\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

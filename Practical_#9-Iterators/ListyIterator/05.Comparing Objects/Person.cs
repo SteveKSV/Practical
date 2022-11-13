@@ -17,7 +17,6 @@ namespace _05.Comparing_Objects
 
         public string Name { get; set; }
         public int Age { get; set; }
-
         public string Town { get; set; }
         public int CompareTo(Person person)
         {

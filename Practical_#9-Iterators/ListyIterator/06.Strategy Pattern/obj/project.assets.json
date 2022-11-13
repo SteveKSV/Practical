@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\06.Strategy Pattern\\06.Strategy Pattern.csproj",
+      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\06.Strategy Pattern\\06.Strategy Pattern.csproj",
       "projectName": "06.Strategy Pattern",
-      "projectPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\06.Strategy Pattern\\06.Strategy Pattern.csproj",
+      "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\06.Strategy Pattern\\06.Strategy Pattern.csproj",
       "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeck\\Desktop\\Practical_#9-Iterators\\ListyIterator\\06.Strategy Pattern\\obj\\",
+      "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#9-Iterators\\ListyIterator\\06.Strategy Pattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

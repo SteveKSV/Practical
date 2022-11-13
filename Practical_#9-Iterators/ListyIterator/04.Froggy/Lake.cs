@@ -10,7 +10,6 @@ namespace _04.Froggy
     public class Lake<T> : IEnumerable<int>
     {
         int[] elements; 
-
         public Lake(int[] elements)
         {
             this.elements = elements;

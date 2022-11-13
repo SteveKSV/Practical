@@ -9,18 +9,41 @@ namespace _07_09.Custom_List
 {
     public class CustomList<T> : ICustomList<T> where T : IComparable<T>
     {
-        private List<T> List = new List<T>();
+        private T[] List = Array.Empty<T>();
+
+        public CustomList()
+        {
+            List = new T[0];
+        }
 
         public void Add(T element)
         {
-            List.Add(element);
+            var array = new T[List.Length + 1];
+
+            for (int i = 0; i < List.Length; i++)
+            {
+                array[i] = List[i];
+            }
+
+            array[List.Length] = element;
+
+            List = array;
         }
 
-        public T Remove(int index)
+        public void Remove(int index)
         {
-            T element = List[index];
-            List.RemoveAt(index);
-            return element;
+            var array = new T[List.Length - 1];
+
+            for (int i = 0, j = 0; i < List.Length; i++)
+            {
+                if (i != index)
+                {
+                    array[j] = List[i];
+                    j++;
+                }
+            }
+
+            List = array;
         }
 
         public int CountGreaterThan(T element)
@@ -73,10 +96,26 @@ namespace _07_09.Custom_List
             }
         }
 
+        public IEnumerator GetEnumerator()
+        {
+            return List.GetEnumerator();
+        }
         public void Sort()
         {
-            T element = List[0];
-            List.Sort();
+            T tempCollection = default(T);
+
+            for (int i = 0; i < List.Length; i++)
+            {
+                for (int j = 0; j < List.Length - 1; j++)
+                {
+                    if (List[j + 1].CompareTo(List[j]) < 0)
+                    {
+                        tempCollection = List[j + 1];
+                        List[j + 1] = List[j];
+                        List[j] = tempCollection;
+                    }
+                }
+            }
         }
     }
 }

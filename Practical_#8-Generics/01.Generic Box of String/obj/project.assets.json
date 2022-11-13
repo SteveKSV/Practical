@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\01.Generic Box of String\\01.Generic Box Of String.csproj",
+      "projectUniqueName": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\01.Generic Box of String\\01.Generic Box Of String.csproj",
       "projectName": "01.Generic Box Of String",
-      "projectPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\01.Generic Box of String\\01.Generic Box Of String.csproj",
+      "projectPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\01.Generic Box of String\\01.Generic Box Of String.csproj",
       "packagesPath": "C:\\Users\\Jeck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeck\\Desktop\\GitCLone\\Practical\\Practical_#8-Generics\\01.Generic Box of String\\obj\\",
+      "outputPath": "C:\\Users\\Jeck\\Desktop\\Навчання\\GitCLone\\Practical\\Practical_#8-Generics\\01.Generic Box of String\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
