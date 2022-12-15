@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\bin\Debug\net6.0\05.URL_Parser.exe
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\bin\Debug\net6.0\05.URL_Parser.deps.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\bin\Debug\net6.0\05.URL_Parser.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\bin\Debug\net6.0\05.URL_Parser.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\bin\Debug\net6.0\05.URL_Parser.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\refint\05.URL_Parser.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\05.URL_Parser.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\05.URL_Parser\obj\Debug\net6.0\ref\05.URL_Parser.dll

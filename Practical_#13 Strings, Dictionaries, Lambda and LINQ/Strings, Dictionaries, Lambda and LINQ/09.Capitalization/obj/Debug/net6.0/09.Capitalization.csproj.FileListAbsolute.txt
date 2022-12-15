@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\bin\Debug\net6.0\09.Capitalization.exe
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\bin\Debug\net6.0\09.Capitalization.deps.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\bin\Debug\net6.0\09.Capitalization.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\bin\Debug\net6.0\09.Capitalization.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\bin\Debug\net6.0\09.Capitalization.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\refint\09.Capitalization.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\09.Capitalization.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\09.Capitalization\obj\Debug\net6.0\ref\09.Capitalization.dll

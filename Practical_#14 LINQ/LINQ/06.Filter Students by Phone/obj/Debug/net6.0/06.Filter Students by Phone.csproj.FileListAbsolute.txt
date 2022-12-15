@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\bin\Debug\net6.0\06.Filter Students by Phone.exe
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\bin\Debug\net6.0\06.Filter Students by Phone.deps.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\bin\Debug\net6.0\06.Filter Students by Phone.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\bin\Debug\net6.0\06.Filter Students by Phone.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\bin\Debug\net6.0\06.Filter Students by Phone.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\refint\06.Filter Students by Phone.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\06.Filter Students by Phone.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\06.Filter Students by Phone\obj\Debug\net6.0\ref\06.Filter Students by Phone.dll

@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\bin\Debug\net6.0\07.Change to Uppercase.exe
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\bin\Debug\net6.0\07.Change to Uppercase.deps.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\bin\Debug\net6.0\07.Change to Uppercase.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\bin\Debug\net6.0\07.Change to Uppercase.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\bin\Debug\net6.0\07.Change to Uppercase.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\refint\07.Change to Uppercase.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\07.Change to Uppercase.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\07.Change to Uppercase\obj\Debug\net6.0\ref\07.Change to Uppercase.dll

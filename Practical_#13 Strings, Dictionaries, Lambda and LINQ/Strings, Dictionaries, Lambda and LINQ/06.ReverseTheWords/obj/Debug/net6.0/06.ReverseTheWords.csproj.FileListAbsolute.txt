@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\bin\Debug\net6.0\06.ReverseTheWords.exe
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\bin\Debug\net6.0\06.ReverseTheWords.deps.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\bin\Debug\net6.0\06.ReverseTheWords.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\bin\Debug\net6.0\06.ReverseTheWords.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\bin\Debug\net6.0\06.ReverseTheWords.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\refint\06.ReverseTheWords.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\06.ReverseTheWords.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\06.ReverseTheWords\obj\Debug\net6.0\ref\06.ReverseTheWords.dll

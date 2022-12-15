@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\bin\Debug\net6.0\05.King's_Gambit_Extended.exe
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\bin\Debug\net6.0\05.King's_Gambit_Extended.deps.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\bin\Debug\net6.0\05.King's_Gambit_Extended.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\bin\Debug\net6.0\05.King's_Gambit_Extended.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\bin\Debug\net6.0\05.King's_Gambit_Extended.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\refint\05.King's_Gambit_Extended.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\05.King's_Gambit_Extended.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\05.King's_Gambit_Extended\obj\Debug\net6.0\ref\05.King's_Gambit_Extended.dll

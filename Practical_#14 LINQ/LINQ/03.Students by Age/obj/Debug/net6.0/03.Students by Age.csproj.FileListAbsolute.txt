@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\bin\Debug\net6.0\03.Students by Age.exe
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\bin\Debug\net6.0\03.Students by Age.deps.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\bin\Debug\net6.0\03.Students by Age.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\bin\Debug\net6.0\03.Students by Age.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\bin\Debug\net6.0\03.Students by Age.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\refint\03.Students by Age.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\03.Students by Age.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\03.Students by Age\obj\Debug\net6.0\ref\03.Students by Age.dll

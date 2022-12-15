@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\bin\Debug\net6.0\03.Censor_Your_Email_Address.exe
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\bin\Debug\net6.0\03.Censor_Your_Email_Address.deps.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\bin\Debug\net6.0\03.Censor_Your_Email_Address.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\bin\Debug\net6.0\03.Censor_Your_Email_Address.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\bin\Debug\net6.0\03.Censor_Your_Email_Address.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\refint\03.Censor_Your_Email_Address.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\03.Censor_Your_Email_Address.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\03.Censor_Your_Email_Address\obj\Debug\net6.0\ref\03.Censor_Your_Email_Address.dll

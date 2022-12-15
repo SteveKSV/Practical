@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\bin\Debug\net6.0\01.Students by Group.exe
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\bin\Debug\net6.0\01.Students by Group.deps.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\bin\Debug\net6.0\01.Students by Group.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\bin\Debug\net6.0\01.Students by Group.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\bin\Debug\net6.0\01.Students by Group.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\refint\01.Students by Group.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\01.Students by Group.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\01.Students by Group\obj\Debug\net6.0\ref\01.Students by Group.dll

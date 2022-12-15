@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\bin\Debug\net6.0\05.Filter Students by Email Domain.exe
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\bin\Debug\net6.0\05.Filter Students by Email Domain.deps.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\bin\Debug\net6.0\05.Filter Students by Email Domain.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\bin\Debug\net6.0\05.Filter Students by Email Domain.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\bin\Debug\net6.0\05.Filter Students by Email Domain.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\refint\05.Filter Students by Email Domain.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\05.Filter Students by Email Domain.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\05.Filter Students by Email Domain\obj\Debug\net6.0\ref\05.Filter Students by Email Domain.dll

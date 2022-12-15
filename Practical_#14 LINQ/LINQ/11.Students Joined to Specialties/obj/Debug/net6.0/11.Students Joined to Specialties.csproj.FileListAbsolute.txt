@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\bin\Debug\net6.0\11.Students Joined to Specialties.exe
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\bin\Debug\net6.0\11.Students Joined to Specialties.deps.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\bin\Debug\net6.0\11.Students Joined to Specialties.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\bin\Debug\net6.0\11.Students Joined to Specialties.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\bin\Debug\net6.0\11.Students Joined to Specialties.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\refint\11.Students Joined to Specialties.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\11.Students Joined to Specialties.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\11.Students Joined to Specialties\obj\Debug\net6.0\ref\11.Students Joined to Specialties.dll

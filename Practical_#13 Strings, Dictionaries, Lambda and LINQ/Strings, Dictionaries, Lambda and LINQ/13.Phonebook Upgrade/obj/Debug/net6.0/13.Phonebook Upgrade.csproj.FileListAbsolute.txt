@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\bin\Debug\net6.0\13.Phonebook Upgrade.exe
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\bin\Debug\net6.0\13.Phonebook Upgrade.deps.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\bin\Debug\net6.0\13.Phonebook Upgrade.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\bin\Debug\net6.0\13.Phonebook Upgrade.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\bin\Debug\net6.0\13.Phonebook Upgrade.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\refint\13.Phonebook Upgrade.dll
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.pdb
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\13.Phonebook Upgrade.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#13 Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ\13.Phonebook Upgrade\obj\Debug\net6.0\ref\13.Phonebook Upgrade.dll

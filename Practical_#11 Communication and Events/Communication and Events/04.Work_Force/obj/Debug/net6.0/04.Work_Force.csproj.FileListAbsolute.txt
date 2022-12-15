@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\bin\Debug\net6.0\04.Work_Force.exe
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\bin\Debug\net6.0\04.Work_Force.deps.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\bin\Debug\net6.0\04.Work_Force.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\bin\Debug\net6.0\04.Work_Force.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\bin\Debug\net6.0\04.Work_Force.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\refint\04.Work_Force.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\04.Work_Force.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\04.Work_Force\obj\Debug\net6.0\ref\04.Work_Force.dll

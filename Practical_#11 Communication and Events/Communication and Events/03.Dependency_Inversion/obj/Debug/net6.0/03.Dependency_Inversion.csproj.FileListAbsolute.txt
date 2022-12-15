@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\bin\Debug\net6.0\03.Dependency_Inversion.exe
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\bin\Debug\net6.0\03.Dependency_Inversion.deps.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\bin\Debug\net6.0\03.Dependency_Inversion.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\bin\Debug\net6.0\03.Dependency_Inversion.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\bin\Debug\net6.0\03.Dependency_Inversion.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\refint\03.Dependency_Inversion.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\03.Dependency_Inversion.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\03.Dependency_Inversion\obj\Debug\net6.0\ref\03.Dependency_Inversion.dll

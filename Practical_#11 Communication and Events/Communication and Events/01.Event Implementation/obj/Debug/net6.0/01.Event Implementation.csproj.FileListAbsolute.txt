@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\bin\Debug\net6.0\01.Event Implementation.exe
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\bin\Debug\net6.0\01.Event Implementation.deps.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\bin\Debug\net6.0\01.Event Implementation.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\bin\Debug\net6.0\01.Event Implementation.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\bin\Debug\net6.0\01.Event Implementation.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\refint\01.Event Implementation.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\01.Event Implementation.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\01.Event Implementation\obj\Debug\net6.0\ref\01.Event Implementation.dll

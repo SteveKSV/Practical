@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\bin\Debug\net6.0\02.Students by First and Last Name.exe
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\bin\Debug\net6.0\02.Students by First and Last Name.deps.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\bin\Debug\net6.0\02.Students by First and Last Name.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\bin\Debug\net6.0\02.Students by First and Last Name.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\bin\Debug\net6.0\02.Students by First and Last Name.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\refint\02.Students by First and Last Name.dll
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.pdb
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\02.Students by First and Last Name.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#14 LINQ\LINQ\02.Students by First and Last Name\obj\Debug\net6.0\ref\02.Students by First and Last Name.dll

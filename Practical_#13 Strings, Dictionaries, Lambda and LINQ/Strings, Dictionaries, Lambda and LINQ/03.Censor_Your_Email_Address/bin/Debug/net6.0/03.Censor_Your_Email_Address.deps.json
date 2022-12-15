@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "03.Censor_Your_Email_Address/1.0.0": {
+        "runtime": {
+          "03.Censor_Your_Email_Address.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03.Censor_Your_Email_Address/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

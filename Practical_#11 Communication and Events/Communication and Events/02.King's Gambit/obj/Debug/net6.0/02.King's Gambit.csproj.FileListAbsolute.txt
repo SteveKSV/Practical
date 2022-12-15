@@ -1,0 +1,15 @@
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.csproj.AssemblyReference.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.AssemblyInfoInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.AssemblyInfo.cs
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.csproj.CoreCompileInputs.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\bin\Debug\net6.0\02.King's Gambit.exe
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\bin\Debug\net6.0\02.King's Gambit.deps.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\bin\Debug\net6.0\02.King's Gambit.runtimeconfig.json
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\bin\Debug\net6.0\02.King's Gambit.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\bin\Debug\net6.0\02.King's Gambit.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\refint\02.King's Gambit.dll
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.pdb
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\02.King's Gambit.genruntimeconfig.cache
+C:\Users\Jeck\Desktop\Practical_#11 Communication and Events\Communication and Events\02.King's Gambit\obj\Debug\net6.0\ref\02.King's Gambit.dll
